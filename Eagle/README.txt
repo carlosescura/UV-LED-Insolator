@@ -1,0 +1,1 @@
+This homemade insolator is designed for a 165x125mm single side board or more.
