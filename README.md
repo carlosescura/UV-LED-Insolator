@@ -17,6 +17,6 @@ All you need to build it is:
 
 Let's do it!
 
-More info: [Carlitosspedia](www.carlitosspedia.info, Carlitosspedia)
+More info: [Carlitosspedia](http://www.carlitosspedia.info)
 
-[www.carlitosspedia.info](www.carlitosspedia.info)
+[www.carlitosspedia.info](http://www.carlitosspedia.info)
